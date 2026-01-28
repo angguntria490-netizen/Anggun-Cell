@@ -1,0 +1,28 @@
+[
+  {
+    "tag": "jam_operasional",
+    "keywords": ["jam buka", "jam operasional", "buka jam berapa", "sampai jam berapa", "tutup jam berapa"],
+    "answer": "Toko anggun cell buka setiap hari dari jam 08.00 sampai jam 21.00 WIB."
+  },
+  {
+    "tag": "alamat",
+    "keywords": ["alamat", "lokasi", "di mana", "dimana", "maps", "margadana"],
+    "answer": "Alamat anggun cell : Mangunsaren, Kota Tegal, Jawa Tengah."
+  },
+  {
+    "tag": "cara_order",
+    "keywords": ["cara order", "cara pesan", "beli bagaimana", "order dimana", "order lewat apa", "pesan lewat apa"],
+    "answer": "Cara order di anggun cell:\n• Tokopedia\n• Shopee\n• WhatsApp: \n•Datang085801158561 langsung ke alamat kami di Mangunsaren, Kota Tegal."
+  },
+  {
+    "tag": "produk",
+    "keywords": ["jual apa saja", "produk apa saja", "barang apa saja", "pulsa", "paket data", "aksesoris", "jaringan"],
+    "answer": "anggun cell menyediakan kartu perdana, paket data, aksesoris hp, alat-alat hp, dan perlengkapan hp lainnya."
+  },
+  {
+    "tag" : "kata kasar",
+    "keywords" : ["bodoh", "anjing", "bangsat", "bajingan", "goblog", "kampret", "tai", "tolol", "babi"],
+    "answer" : "mohon untuk tidak menggunakan kata-kata kasar saat berintraksi dengan kami. terima kasih."
+  }
+
+]
